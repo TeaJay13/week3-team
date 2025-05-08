@@ -6,6 +6,10 @@ body {
     justify-content: center;
     align-items: center;
     margin: 0;
+    background-image: url("background.jpg");
+    background-size: cover;         /* Fill the entire screen */
+    background-position: center;    /* Center the image */
+    background-repeat: no-repeat;   /* Prevent repeating */
   }
   
   .container {
